@@ -179,6 +179,12 @@ tests/       回归测试
 
 ---
 
+## 关键词
+
+中文：韩语卡片、韩语背单词、延世韩国语、韩语学习、韩语词汇、韩语单词、TOPIK、韩语考试、韩语翻译、桌面韩语、PyQt6 韩语、悬浮背词、剪贴板翻译、韩语变位、韩语助词、韩语汉字词、韩语发音、韩语 TTS、韩语口语、韩语单词书、背单词软件
+
+English: Korean vocabulary flashcards, Korean learning app, Yonsei Korean textbook, TOPIK prep, edge-tts Korean pronunciation, PyQt6 desktop flashcard, clipboard translator, spaced repetition, Hanja converter, Korean particle highlighter, Korean conjugator
+
 ## 许可
 
 MIT，见 `LICENSE`。词库内容整理自公开教材，仅供个人学习使用。
