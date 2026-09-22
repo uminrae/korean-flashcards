@@ -1,0 +1,41 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ---- 构建产物 ----
+build/
+dist/
+Output/
+*.spec.bak
+*.exe
+*.msi
+
+# ---- 缓存 / 临时 ----
+cache/
+data/audio_cache/
+data/*.tmp
+*.tmp
+
+# ---- 运行时数据（含个人学习记录）----
+config/*.db
+scripts/*.db
+*.log
+scripts/test_output/
+verify_result.txt
+执行.txt
+
+# ---- 大体积 / 版权与隐私素材 ----
+data/fonts/
+ambience/
+data/idle_lyrics.json
+data/custom_vocab.json
+
+# ---- 本地工具目录 ----
+.workbuddy-ai/
+
+# ---- 系统 ----
+.DS_Store
+Thumbs.db
