@@ -6,6 +6,18 @@
 
 基于 **PyQt6 + edge-tts** 构建，桌面置顶悬浮，边看剧边办公也能背。
 
+## 预览
+
+| 主卡片正面 | 主卡片背面 |
+|---|---|
+| ![card-front](docs/screenshots/card-front.png) | ![card-back](docs/screenshots/card-back.png) |
+
+| 翻译抽屉 | 学习热力图 |
+|---|---|
+| ![translator](docs/screenshots/translator-drawer.png) | ![heatmap](docs/screenshots/study-heatmap.png) |
+
+> 截图保存在 `docs/screenshots/` 下（仓库未随附，待补）。
+
 ---
 
 ## 内置词库

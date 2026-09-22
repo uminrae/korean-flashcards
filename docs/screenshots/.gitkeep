@@ -1,0 +1,6 @@
+占位文件，确保目录被 git 追踪。
+截图替换为以下文件：
+- card-front.png        主卡片正面
+- card-back.png         主卡片背面
+- translator-drawer.png 翻译抽屉
+- study-heatmap.png     学习热力图
